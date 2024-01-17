@@ -9,3 +9,5 @@ def bienvenida():
      '''
     print(gatito)
     print(f"Hola {nombre}, ERGOSTATS te da la Bienvenida!")
+
+bienvenida()
